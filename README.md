@@ -1,4 +1,4 @@
-This module contains the definition of the CompressorAirfoil class, which is designed to generate axial compressor airfoil geometry.
+The CompressorAirfoil class is designed to generate axial compressor airfoil geometry.
 
 # 1. Import CompressorAirfoil class and the required libraries
 
