@@ -1,5 +1,5 @@
-The CompressorAirfoil class is designed to generate axial compressor airfoil geometry.
-
+This module defines the CompressorAirfoil class, developed to assist students and turbomachinery researchers  
+generate customized axial compressor airfoils. 
 # 1. Import CompressorAirfoil class and the required libraries
 
 
